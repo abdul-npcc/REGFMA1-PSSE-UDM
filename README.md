@@ -13,7 +13,7 @@ PSS/E 33–35 users.
 - `dll/psse33/` — DLL compiled for PSS/E 33
 - `dll/psse34/` — DLL compiled for PSS/E 34  
 - `dll/psse35/` — DLL compiled for PSS/E 35
-- `docs/`       — User guide (CON/VAR/STATE table, example DYR entry)
+- `docs/`       — User guide
 
 ## Usage
 1. Copy the appropriate DLL to your PSS/E working directory
