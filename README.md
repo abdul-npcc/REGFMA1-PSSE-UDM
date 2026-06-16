@@ -10,9 +10,10 @@ This implementation was developed independently from the published model specifi
 PSS/E 33–35 users.
 
 ## Benchmark Results
-Voltage step down test
+Voltage step down test results (PSS/E's generic REGFMA1 and REGFMA1_UDM)
 
 <img width="4770" height="1743" alt="STATES_Compare_10" src="https://github.com/user-attachments/assets/f65be0ef-b9f1-4174-8959-62a382db5447" />
+
 
 <img width="4770" height="1743" alt="VARS_Compare_10" src="https://github.com/user-attachments/assets/4f9b1d42-2176-4533-843d-41b9a531226d" />
 
