@@ -25,7 +25,7 @@ Voltage step down test
 
 ## Usage
 1. Copy the appropriate DLL to your PSS/E working directory
-2. Add the DYRE entry as described in the user guide
+2. Add the DYR entry as described in the user guide. Sample .dyr files can also be found in the dll folders. 
 
 ## Author
 Abdul Rauf
